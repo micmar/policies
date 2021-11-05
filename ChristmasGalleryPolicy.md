@@ -1,4 +1,4 @@
-Christmas Gallery: Privacy policy
+#Christmas Gallery: Privacy policy
 
 Christmas Gallery is a virtual Museum App, telling about the historical event of Christmas, through famous late middle age paintings.
 
